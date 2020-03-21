@@ -1,0 +1,14 @@
+{
+  "name": "image-retouch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "BirdNest",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "gm": "^1.23.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
